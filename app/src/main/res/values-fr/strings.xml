@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Internationalisation</string>
+	<string name="study">Étudier dur, monter tous les jours</string>
+	<string name="change">Changer de langue</string>
+	<string name="auto">Suivre le système</string>
+	<string name="zh">Chinois simplifié</string>
+	<string name="en">Anglais</string>
+	<string name="ja">Japonais</string>
+	<string name="th">Thaïlande</string>
+	<string name="ko">Coréen</string>
+	<string name="fr">Le français</string>
+	<string name="de">Allemand</string>
+	<string name="ru">Russe</string>
+	<string name="es">Espagnol</string>
+</resources>

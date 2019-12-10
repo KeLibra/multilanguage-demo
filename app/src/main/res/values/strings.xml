@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">国际化demo</string>
+    <string name="study">好好学习,天天向上</string>
+    <string name="change">更换语言</string>
+
+
+    <string name="auto">跟随系统</string>
+    <string name="zh">简体中文</string>
+    <string name="en">英语</string>
+    <string name="ja">日本語</string>
+    <string name="th">泰国</string>
+
+    <string name="ko">韩语</string>
+    <string name="fr">法语</string>
+    <string name="de">德语</string>
+    <string name="ru">俄语</string>
+    <string name="es">西班牙语</string>
+</resources>

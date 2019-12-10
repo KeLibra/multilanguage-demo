@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">สากล</string>
+	<string name="study">เรียนหนักขึ้นไปทุกวัน</string>
+	<string name="change">เปลี่ยนภาษา</string>
+	<string name="auto">ติดตามระบบ</string>
+	<string name="zh">จีนตัวย่อ</string>
+	<string name="en">อังกฤษ</string>
+	<string name="ja">ญี่ปุ่น</string>
+	<string name="th">ประเทศไทย</string>
+	<string name="ko">เกาหลี</string>
+	<string name="fr">ฝรั่งเศส</string>
+	<string name="de">เยอรมัน</string>
+	<string name="ru">รัสเซีย</string>
+	<string name="es">สเปน</string>
+</resources>

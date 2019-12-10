@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">国際化</string>
+	<string name="study">毎日一生懸命勉強して</string>
+	<string name="change">言語を変更する</string>
+	<string name="auto">システムに従う</string>
+	<string name="zh">簡体字中国語</string>
+	<string name="en">英語</string>
+	<string name="ja">日本語</string>
+	<string name="th">タイ</string>
+	<string name="ko">韓国人</string>
+	<string name="fr">フランス語</string>
+	<string name="de">ドイツ人</string>
+	<string name="ru">ロシア語</string>
+	<string name="es">スペイン語</string>
+</resources>

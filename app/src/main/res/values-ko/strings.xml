@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">국제화</string>
+	<string name="study">열심히 공부하고 매일 올라가</string>
+	<string name="change">언어 변경</string>
+	<string name="auto">시스템을 따르십시오</string>
+	<string name="zh">중국어 간체</string>
+	<string name="en">영어</string>
+	<string name="ja">일본어</string>
+	<string name="th">태국</string>
+	<string name="ko">한국어</string>
+	<string name="fr">불어</string>
+	<string name="de">독일어</string>
+	<string name="ru">러시아어</string>
+	<string name="es">스페인어</string>
+</resources>
